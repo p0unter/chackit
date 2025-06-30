@@ -18,13 +18,13 @@
     <td align="center">
       <a href="https://github.com/p0unter">
         <img src="https://avatars.githubusercontent.com/u/138019503?v=4" height="80" style="border-radius: 75px"><br>
-        @p0unter
+        p0unter
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Mal1koRe1ss">
         <img src="https://avatars.githubusercontent.com/u/70070751?v=4" height="80" style="border-radius: 75px"><br>
-        @Mal1koRe1ss
+        Mal1koRe1ss
       </a>
     </td>
   </tr>
